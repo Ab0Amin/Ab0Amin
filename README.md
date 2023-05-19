@@ -1,24 +1,19 @@
-<!-- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=36f20c&pause=5000&width=820&lines=Hi%2C+I'm+Ahmed%2C+a+software+developer+passionate+about)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=36f20c&startDelay=150000&width=1020&lines=Hi%2C+I'm+Ahmed%2C+a+software+developer+passionate+about+web%2Fmobile%2Fdesktop+applications%2C+data+science%2C+and+BIM+Apps.)](https://git.io/typing-svg)
+ <h1 style="color: #3881b5;">Hi, I'm Ahmed Aballa</h1>
+
+ <h2> passionate about  </h2>
+
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&color=ffffff&width=720&lines=web%2Fmobile%2Fdesktop+applications%2C+data+science%2C+and+BIM+Apps.)](https://git.io/typing-svg)
 <div id="typing-animation"></div>
- -->
- Hi, I'm Ahmed, a software developer passionate about web/mobile/desktop applications, data science, and BIM development.
 
 
-<!-- ![68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif)
-
- -->
-
- <img src="https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif"  height=600 align="center" />
+ <img src="assets/avento.gif"  height=600 align="center" />
 
 
-<!-- ![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)
- -->
  <img src="https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg"   align="center" />
 
- ### Languages and Tools:
+ ## Languages and Tools:
 
 <br height="50">
 
