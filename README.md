@@ -8,10 +8,10 @@
 <div id="typing-animation"></div>
 
 
- <img src="assets/avento.gif"  height=600 align="center" />
+ <img src="assets/avento.gif"  width=90% align="center" />
 
 
- <img src="https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg"   align="center" />
+ <img src="https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg"  align="center" />
 
  ## Languages and Tools:
 
