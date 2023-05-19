@@ -21,65 +21,64 @@
  ### Languages and Tools:
 
 <br height="50">
- 
- 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-
-
-<!-- 
-<div align="left" style="display: flex; flex-direction: column;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="52" alt="bash logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" width="52" alt="android logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" width="52" alt="dart logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
-</div> -->
-
-
-
-
-<br height=50>
-
-
-<div align="left" style="display: flex; flex-direction: column;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="52" alt="bash logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" width="52" alt="android logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" width="52" alt="dart logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
-</div>
-
-
-
-<!-- ### Socials: -->
-<!-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/ahmed-abdelwadod/)
-[![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://ahmed-abdalla.netlify.app/)
-
- -->
-
-<br height=50>
 
 <div align="center">
-  <h1> Social</h1>
+ 
+  <img src="assets/c-sharp-c.svg" height="70" alt="c logo"  />
+  &nbsp;&nbsp;
+  &nbsp;&nbsp;
+  <img src="assets/python.svg" height="70" alt="c logo"  />
+   &nbsp;&nbsp;
+  &nbsp;&nbsp;
+  <img src="assets/java.svg" height="70" alt="c logo"  />
+  &nbsp;&nbsp;
+  &nbsp;&nbsp;
+  <img src="assets/javascript-js.svg" height="70" alt="c logo"  />
+  &nbsp;&nbsp;
+  &nbsp;&nbsp;
+  <img src="assets/css.svg" height="70" alt="c logo"  />
+  &nbsp;&nbsp;
+  &nbsp;&nbsp;
+  <img src="assets/sql.svg" height="70" alt="c logo"  />
+  &nbsp;&nbsp;
+  &nbsp;&nbsp;
+  <img src="assets/sqlite.svg" height="70" alt="c logo"  />
+</div> 
+
+<br height="50">
+
+
+<div align="left" width=100>
+ <div align="center">
+  <img src="assets/react.svg" height="70" alt="c logo"  />
+  &nbsp;&nbsp;
+  &nbsp;&nbsp;
+
+  <img src="assets/android.svg" height="70" alt="c logo"  />
+  &nbsp;&nbsp;
+  &nbsp;&nbsp;
+  
+  <img src="assets/desktop.svg" height="70" alt="c logo"  />
+
+ </div> 
+ </div> 
+
+<br height=50>
+
+
+
+
+
+<br height=50>
+
+## Social:
+
+<div align="center">
   <a href="https://www.linkedin.com/in/ahmed-abdelwadod" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6" height=50 alt="linkedin logo"  />
   </a>
   <a href="https://ahmed-abdalla.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" height="25" alt="twitter logo"  />
+    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" height=50 />
   </a>
 </div>
