@@ -74,6 +74,6 @@
     <img src="https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6" height=50 alt="linkedin logo"  />
   </a>
   <a href="https://ahmed-abdalla.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" height=50 />
+    <img src="https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" height=50 />
   </a>
 </div>
